@@ -1,0 +1,52 @@
+body{
+    margin-top:60px;
+    margin-bottom:60px;
+  }
+  
+  h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Varela Round', sans-serif;
+    } 
+  
+  h3{
+    text-align: center;
+    font-size: 22px;
+  }
+  
+  .responsive{
+    max-width: 80%;
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 3px 3px 1px white;
+  }
+  p {
+    text-align: center;
+    /* I went with this but decided that it looks better with a background color instead
+    border: 3px solid #151515;
+    border-radius: 10px; */
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+   } 
+  ul {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    background-color:black;
+    color:white;
+   } 
+   li{
+    padding: 5px;
+   }
